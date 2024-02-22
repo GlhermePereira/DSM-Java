@@ -1,0 +1,11 @@
+package ex_05;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// 5. Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou impar e exiba uma mensagem correspondente.
+
+
+	}
+
+}

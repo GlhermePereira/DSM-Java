@@ -1,0 +1,11 @@
+import java.util.Scanner;
+my package ex_02;
+
+
+public class main {
+
+	public static void main(String[] args) {
+
+	}
+
+}

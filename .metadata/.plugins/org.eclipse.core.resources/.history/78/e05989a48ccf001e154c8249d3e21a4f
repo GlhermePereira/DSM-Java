@@ -1,0 +1,24 @@
+package ex_02;
+import java.util.Scanner;
+
+
+public class main {
+
+	public static void main(String[] args) {
+	try (Scanner read = new Scanner(System.in)){
+		int num1,num2;
+		
+		System.out.println("Digite o primeiro numero");
+		num1 = read.nextInt();
+		System.out.println("Digite o segundo numero");
+		num2 = read.nextInt();
+		if(num==num2) {
+			System.out.println("O primeiro numero e maior");
+		}else if (num2>num1) {
+			System.out.println("O segundo número é maior");
+		}
+		if(num)
+	}
+
+	}
+}

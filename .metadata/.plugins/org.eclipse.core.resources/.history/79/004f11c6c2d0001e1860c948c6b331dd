@@ -1,0 +1,25 @@
+package ex_06;
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		// 6. Crie um programa que solicite ao usuário um número e calcule o fatorial desse número.
+		
+		try (Scanner readScanner = new Scanner(System.in)){
+			
+			double numDigitado,resultado = 0;
+			
+			System.out.println("Digite um número: ");
+			numDigitado = readScanner.nextDouble();
+			
+			while (x > 1){
+				  f = f *(x-1); x--;
+				                    }
+				  System.out.println(f); // Aqui exibira o valor final do Fatorial
+			
+			
+		}
+
+	}
+
+}
